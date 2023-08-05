@@ -1,8 +1,8 @@
 <html>
  <head>
-  <h2> Atividade desenvolvida para a cadeira de Aprendizagem de Máquina </h2>  <br />
+  <h3> Atividade desenvolvida para a cadeira de Aprendizagem de Máquina </h3>  <br />
   </head>
  <body>
-  🧮 Análise exploratória dos dados & algoritmos de classificação <br /> 🎲 Dataset de deonças cardíacas
+  🧮 Análise exploratória dos dados & algoritmos de classificação <br /> 🎲 Dataset de do3nças cardíacas
  </body>
 </html>
