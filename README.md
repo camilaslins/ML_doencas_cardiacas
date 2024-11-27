@@ -1,8 +1,11 @@
 <html>
  <head>
-  <h3> Atividade desenvolvida para a cadeira de Aprendizagem de Máquina </h3>  <br />
+  <h3> Machine Learning course </h3>  <br />
   </head>
  <body>
-  🧮 Análise exploratória dos dados & algoritmos de classificação <br /> 🎲 Dataset de doenças cardíacas
+ This repository was created for the Machine Learning course,  part of my undergraduate program at the Federal Institute of Pernambuco (IFPE). 
+
+🧮 Exploratory Data Analysis & Classification Algorithms<br>
+🎲 Heart Disease Dataset
  </body>
 </html>
